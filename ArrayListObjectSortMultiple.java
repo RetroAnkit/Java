@@ -64,7 +64,7 @@ public class ArrayListObjectSort
 	 {
           ArrayList<Student> al = new ArrayList<Student>();
           al.add(new Student(23,"Sam",15));
-          al.add(new Student(22,"Jimmy",39));
+          al.add(new Student(22,"Jimmy",38));
           al.add(new Student(45,"Cooper",12));
           al.add(new Student(68,"Jack",24));
 
