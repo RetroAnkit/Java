@@ -11,7 +11,7 @@ class Student
           this.sage = sage;
      }
 
-     //getters for overrided compare method
+     //getters for compare method
      public String getStudentName()
       {
            return sname;
